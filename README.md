@@ -10,20 +10,25 @@ My work sits at the intersection of **technology, entrepreneurship, automation, 
 
 ### ARSIS
 
-A technology venture focused on **business automation, digital systems, and AI-powered solutions** that help businesses operate better, reduce repetitive work, and capture opportunities they would otherwise lose.
+A digital solutions business based in Accra, Ghana. ARSIS builds **business websites, online ordering experiences, and practical digital tools**. Where useful, these are connected to enquiry handling, integrations, and workflow automation.
+
+- **Website:** https://arsis-ai.pages.dev/
+- **Project enquiries:** https://arsis-ai.pages.dev/contact/
 
 ### ARSIS Builders
 
-A growing builder community focused on people who want to **learn, build, experiment, collaborate, and create businesses with technology**.
+A builder community focused on people who want to **learn, build, experiment, collaborate, and create businesses with technology**.
+
+- **YouTube:** https://www.youtube.com/@ArsisBuilders
 
 ## Current Focus
 
+- Business websites and digital solutions
 - AI-powered business automation
 - AI agents and intelligent workflows
 - Business systems and operational automation
 - Digital products
 - Technology entrepreneurship
-- Building and testing real-world businesses
 
 ## How I Build
 
